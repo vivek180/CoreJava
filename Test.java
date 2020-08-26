@@ -1,1 +1,0 @@
-Hello All. Welcome to Java World.
